@@ -1,4 +1,4 @@
-# Custom AV Player Series: Part 1 - Building a Powerful Video Player
+# Build a Video Player like Netflix, Prime, ZEE5 or Hotstar in iOS : Part 2 - Device Rotation Control
 
 [![Custom AV Player](https://github.com/pushpendra996/avplayer-swift-part-1-ios/blob/main/Custom%20AV%20Player%20in%20Swift%20iOS.png?raw=true)](https://youtu.be/naMfH2nryvQ)
 
